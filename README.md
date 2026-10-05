@@ -50,7 +50,3 @@ API-key and OAuth auth, rate limits, prompt cache, provider failover, and per-cu
   <sub>Building with</sub><br>
   <img src="./assets/stack-building.svg" alt="Python, FastAPI, Java, Spring Boot, Redis, Kafka" height="48">
 </p>
-
-### Currently
-
-Building the SEBI/RBI answer service first. The gateway comes next, and the answer service's model calls will run through it, so the two form one system.
