@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Preet Patel - backend engineer building reliable AI systems">
+  <title>Preet Patel - backend engineer building reliable AI systems</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#1f2937"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="none" stroke="#30363d"/>
+
+  <g font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+    <text x="64" y="118" font-size="52" font-weight="700" fill="#e6edf3">Preet Patel</text>
+    <text x="64" y="164" font-size="24" font-weight="600" fill="#2dd4bf">Backend engineer · reliable AI systems</text>
+    <text x="64" y="204" font-size="18" fill="#9aa7b4">Measured accuracy · guardrails · cost and latency under control</text>
+    <text x="64" y="244" font-size="15" fill="#9aa7b4" letter-spacing="1.5">PUNE, INDIA</text>
+  </g>
+
+  <!-- request path: request -> guardrails -> model -> evals -->
+  <g font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" text-anchor="middle">
+    <g stroke="#6b7280" stroke-width="2" fill="none">
+      <path d="M760 150 H786"/><path d="M886 150 H912"/><path d="M1012 150 H1038"/>
+    </g>
+    <g fill="#6b7280">
+      <path d="M786 145 L794 150 L786 155 Z"/><path d="M912 145 L920 150 L912 155 Z"/><path d="M1038 145 L1046 150 L1038 155 Z"/>
+    </g>
+    <rect x="700" y="128" width="60" height="44" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text x="730" y="155" fill="#e6edf3">req</text>
+    <rect x="796" y="128" width="90" height="44" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text x="841" y="155" fill="#e6edf3">guardrails</text>
+    <rect x="922" y="128" width="90" height="44" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text x="967" y="155" fill="#e6edf3">model</text>
+    <rect x="1048" y="128" width="90" height="44" rx="10" fill="#0b2a27" stroke="#2dd4bf"/>
+    <text x="1093" y="155" fill="#2dd4bf">evals ✓</text>
+    <g font-size="12" font-weight="400" fill="#9aa7b4">
+      <text x="841" y="196">injection blocked</text>
+      <text x="967" y="196">p95 · cost</text>
+      <text x="1093" y="196">cited, or refuse</text>
+    </g>
+  </g>
+</svg>
