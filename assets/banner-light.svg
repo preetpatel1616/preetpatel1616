@@ -14,10 +14,9 @@
   <rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="none" stroke="#d0d7de"/>
 
   <g font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
-    <text x="64" y="118" font-size="52" font-weight="700" fill="#0f172a">Preet Patel</text>
-    <text x="64" y="164" font-size="24" font-weight="600" fill="#0f766e">Backend engineer · reliable AI systems</text>
-    <text x="64" y="204" font-size="18" fill="#475569">Measured accuracy · guardrails · cost and latency under control</text>
-    <text x="64" y="244" font-size="15" fill="#475569" letter-spacing="1.5">PUNE, INDIA</text>
+    <text x="64" y="132" font-size="52" font-weight="700" fill="#0f172a">Preet Patel</text>
+    <text x="64" y="178" font-size="24" font-weight="600" fill="#0f766e">Backend engineer · reliable AI systems</text>
+    <text x="64" y="218" font-size="18" fill="#475569">Measured accuracy · guardrails · cost and latency under control</text>
   </g>
 
   <!-- request path: request -> guardrails -> model -> evals -->
