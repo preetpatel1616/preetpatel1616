@@ -15,26 +15,7 @@ test sets that catch regressions before they ship, and guardrails that keep cost
 
 ### Building now
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Cited answers over SEBI and RBI circulars**<br>
-Answers questions on Indian financial regulations with the exact circular and paragraph cited, tracks which rule is still in force, and refuses when it can't cite.<br>
-<sub>Python · FastAPI · PostgreSQL/pgvector · hybrid search · evals in CI</sub><br>
-<sub><i>In progress — goes public with measured results</i></sub>
-
-</td>
-<td width="50%" valign="top">
-
-**A gateway for every AI-model call**<br>
-API-key and OAuth auth, rate limits, prompt cache, provider failover, and per-customer spend caps enforced from a Kafka stream.<br>
-<sub>Java 21 · Spring Boot · Redis · Kafka · PostgreSQL</sub><br>
-<sub><i>In progress — goes public with measured results</i></sub>
-
-</td>
-</tr>
-</table>
+New projects in progress. They go public with measured results.
 
 ### Shipped
 
