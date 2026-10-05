@@ -51,9 +51,6 @@ API-key and OAuth auth, rate limits, prompt cache, provider failover, and per-cu
   <img src="./assets/stack-building.svg" alt="Python, FastAPI, Java, Spring Boot, Redis, Kafka" height="48">
 </p>
 
-<br>
+### Currently
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/preetpatel1616/preetpatel1616/output/github-snake-dark.svg">
-  <img alt="Contribution graph drawn as a snake" src="https://raw.githubusercontent.com/preetpatel1616/preetpatel1616/output/github-snake.svg">
-</picture>
+Building the SEBI/RBI answer service first. The gateway comes next, and the answer service's model calls will run through it, so the two form one system.
