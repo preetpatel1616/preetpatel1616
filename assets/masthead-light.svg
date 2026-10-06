@@ -1,10 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Preet Patel - backend engineering, reliable AI systems">
-  <title>Preet Patel - backend engineering, reliable AI systems</title>
-  <rect width="1200" height="230" fill="#f5f1e8"/>
-  <rect x="40" y="26" width="1120" height="3" fill="#1c1b19"/>
-  <rect x="40" y="33" width="1120" height="1" fill="#1c1b19"/>
-  <text x="600" y="128" text-anchor="middle" font-family="Georgia, 'Times New Roman', Times, serif" font-size="76" fill="#1c1b19" letter-spacing="1">Preet Patel<tspan fill="#b3261e">.</tspan></text>
-  <rect x="40" y="160" width="1120" height="1" fill="#1c1b19"/>
-  <text x="600" y="190" text-anchor="middle" font-family="Georgia, 'Times New Roman', Times, serif" font-size="17" fill="#1c1b19" letter-spacing="4.5">BACKEND ENGINEERING  ·  RELIABLE AI SYSTEMS</text>
-  <rect x="40" y="203" width="1120" height="1" fill="#1c1b19"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Preet Patel - backend engineer, reliable AI systems">
+  <title>Preet Patel - backend engineer, reliable AI systems</title>
+  <style>
+    .ln { fill: none; stroke: #1f3a5f; stroke-width: 3; stroke-dasharray: 100; stroke-dashoffset: 100; animation: draw 1.4s ease-in-out forwards; }
+    .ln2 { animation-delay: .5s; }
+    .fill { opacity: 0; animation: show .5s ease-out 1.2s forwards; }
+    .txt { opacity: 0; animation: show .5s ease-out 1.5s forwards; font-family: Arial, Helvetica, sans-serif; fill: #1f3a5f; }
+    .lab { font-size: 17px; letter-spacing: 2px; }
+    .val { font-size: 27px; font-weight: bold; letter-spacing: 1px; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes show { to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .ln, .fill, .txt { animation: none; stroke-dashoffset: 0; opacity: 1; }
+    }
+  </style>
+  <rect width="1200" height="240" fill="#ffffff"/>
+  <rect class="fill" x="20" y="20" width="880" height="120" fill="#fdce3a"/>
+  <rect class="fill" x="20" y="140" width="880" height="80" fill="#cfe2f0"/>
+  <rect class="ln" x="20" y="20" width="1160" height="200" pathLength="100"/>
+  <line class="ln ln2" x1="20" y1="140" x2="1180" y2="140" pathLength="100"/>
+  <line class="ln ln2" x1="900" y1="20" x2="900" y2="220" pathLength="100"/>
+  <line class="ln ln2" x1="460" y1="140" x2="460" y2="220" pathLength="100"/>
+  <g class="txt">
+    <text x="56" y="103" font-size="64" letter-spacing="6">PREET PATEL</text>
+    <text class="lab" x="930" y="62">SHEET</text>
+    <text class="val" x="930" y="104">1 OF 1</text>
+    <text class="lab" x="44" y="170">ROLE</text>
+    <text class="val" x="44" y="204">BACKEND ENGINEER</text>
+    <text class="lab" x="484" y="170">FOCUS</text>
+    <text class="val" x="484" y="204">RELIABLE AI SYSTEMS</text>
+    <text class="lab" x="930" y="170">REV</text>
+    <text class="val" x="930" y="204">2026</text>
+  </g>
 </svg>

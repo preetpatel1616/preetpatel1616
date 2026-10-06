@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/masthead-dark.svg">
-  <img alt="Preet Patel — backend engineer building reliable AI systems" src="./assets/masthead-light.svg" width="100%">
+  <img alt="Preet Patel — backend engineer, reliable AI systems" src="./assets/masthead-light.svg" width="100%">
 </picture>
 
 <p align="center">
