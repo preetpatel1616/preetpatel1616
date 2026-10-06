@@ -6,7 +6,7 @@
 <p align="center">
 I build the backend that makes AI features trustworthy: answers that cite their sources,<br>
 test sets that catch regressions before they ship, and guardrails that keep cost and latency under control.<br>
-<b>Open to full-time backend / AI engineering roles · Pune · Bangalore · Hyderabad · remote (India)</b>
+<b>Open to full-time backend / AI engineering roles · Pune · Bangalore · Hyderabad · remote</b>
 </p>
 
 <p align="center">
@@ -21,6 +21,8 @@ New projects in progress. They go public with measured results.
 
 **[aws-vehicle-compliance-system](https://github.com/preetpatel1616/aws-vehicle-compliance-system)** — reads licence plates from vehicle photos with AWS Rekognition, checks insurance and registration in PostgreSQL, and emails the owner. Next.js, TypeScript, JWT auth, Docker, deploy pipeline to AWS.
 
+**[tls-handshake-simulator](https://github.com/preetpatel1616/tls-handshake-simulator)** — a TLS 1.2 client and server in C++ on OpenSSL: RSA and DHE key exchange, certificate verification, AES-128-CBC. Built with a classmate.
+
 ### Stack
 
 <p>
@@ -29,5 +31,5 @@ New projects in progress. They go public with measured results.
 </p>
 <p>
   <sub>Building with</sub><br>
-  <img src="./assets/stack-building.svg" alt="Python, FastAPI, Java, Spring Boot, Redis, Kafka" height="48">
+  <img src="./assets/stack-building.svg" alt="Java, Spring Boot, Python, Go, Kafka" height="48">
 </p>
